@@ -26,4 +26,5 @@ Next week I would like to complete the post work earlier to ensure I keep on top
 ### *1.7 What theory proved to be useful and why? What have I learnt from this?*
 The theory that proved to be most useful this week was Juan’s tutorial about GitHub. As I have no prior knowledge about it, I found the video to be extremely useful. I learnt that Git is used by many developers and aids in workflow efficiency. GitHub which is what we will use in this course acts as a GUI (graphic user interface), allowing “normal people” to access the data/program from Git. 
  
-VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 1:
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 1:*
+https://github.com/13269384/41189-My-Reflective-Portfolio/issues/1#issue-670628496
