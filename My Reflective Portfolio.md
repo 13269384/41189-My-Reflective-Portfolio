@@ -6,7 +6,6 @@ In reflecting upon this week's tutorial I believe that I have understood the fun
 
 ### *1.2 What do I 'now know' that I did not before?*
 I have learnt a great deal in the past week about systems. Upon participating in the first session, I did not have much knowledge about systems other than the technology aspect of systems. Through revision of lecture slides I now know about closed, open and isolated boundaries as well as the characteristics of systems. Most notably I learnt about the academic definition of the term ‘complex’ and ‘complicated’. 
-Figure 1. Characteristics of systems
  
 ### *1.3 What insights have I gained?*
 A significant realisation made from this week’s lesson is in regards to socio-technical systems. I have become aware that it is important for information system practitioners to consider the societal implications that systems may have. By considering the social framework surrounding a system, such as goals, beliefs and norms, appropriate decisions regarding the technological aspect can be made. 
