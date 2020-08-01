@@ -5,7 +5,7 @@
 In reflecting upon this week's tutorial I believe that I have understood the fundamental basics to what systems, complex adaptive systems and socio-technological systems comprise of. After the first lecture, it is now evident to me that defining systems can be very difficult as context changes the meaning of the word. Examples given included, weather systems, Economic systems, clocks and even systems within families. This variety demonstrates that systems penetrate many different sectors of society and that they are everywhere!
 
 ### *1.2 What do I 'now know' that I did not before?*
-I have learnt a great deal in the past week about systems. Upon participating in the first session, I did not have much knowledge about systems other than the technology aspect of systems. Through revision of lecture slides I now know about closed, open and isolated boundaries as well as the characteristics of systems (fig.1). Most notably I learnt about the academic definition of the term ‘complex’ and ‘complicated’. 
+I have learnt a great deal in the past week about systems. Upon participating in the first session, I did not have much knowledge about systems other than the technology aspect of systems. Through revision of lecture slides I now know about closed, open and isolated boundaries as well as the characteristics of systems. Most notably I learnt about the academic definition of the term ‘complex’ and ‘complicated’. 
 Figure 1. Characteristics of systems
  
 ### *1.3 What insights have I gained?*
