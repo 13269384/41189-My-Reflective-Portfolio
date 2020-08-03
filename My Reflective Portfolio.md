@@ -1,4 +1,5 @@
 # MY 41189 REFLECTIVE PORTFOLIO
+Shino Takesako_13269384
 
 ## WEEK 1
 ### *1.1 What have I learnt this week?*
