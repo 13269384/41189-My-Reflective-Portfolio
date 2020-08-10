@@ -1,7 +1,7 @@
 # MY 41189 REFLECTIVE PORTFOLIO
 Shino Takesako_13269384
 
-## WEEK 1
+# WEEK 1
 ### *1.1 What have I learnt this week?*
 In reflecting upon this week's tutorial I believe that I have understood the fundamental basics to what systems, complex adaptive systems and socio-technological systems comprise of. After the first lecture, it is now evident to me that defining systems can be very difficult as context changes the meaning of the word. Examples given included, weather systems, Economic systems, clocks and even systems within families. This variety demonstrates that systems penetrate many different sectors of society and that they are everywhere!
 
@@ -30,9 +30,7 @@ The theory that proved to be most useful this week was Juan’s tutorial about G
 https://github.com/13269384/41189-My-Reflective-Portfolio/issues/1#issue-670628496
 
 
-
-
-## WEEK 2
+# WEEK 2
 
 ### *2.1 What have I learnt this week?*
 Through careful reflection upon week 2’s content, I believe that the most significant topic I learnt about was the value of a ‘Many Models’ approach. One statistic that stood out to me was about the success in accuracy when a second model and third model was included. These findings concluded that adding a second model led to an 8% improvement, followed by 15% with a third model. Interestly, only several models are needed to increase the improvement amount. For example, having 50 models would yield an improvement so small that it would not be worth the amount of time and energy needed to build this excessive number of models. 
@@ -61,4 +59,4 @@ Next time I hope to read extra material regarding the specific models and theori
 The 3 theories regarding different approaches to models, have been extremely useful in helping me understand types of models. The embodiment approach is based upon realism and the alternative reality approached does not represent reality. These 2 approaches are polar opposites. However, between these sits the analogy approach which incorporates the essence of reality and aims to provide realistic models based on assumption. 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 2:*
-
+https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/2#issue-675936013 
