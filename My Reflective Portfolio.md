@@ -28,3 +28,37 @@ The theory that proved to be most useful this week was Juan’s tutorial about G
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 1:*
 https://github.com/13269384/41189-My-Reflective-Portfolio/issues/1#issue-670628496
+
+
+
+
+## WEEK 2
+
+### *2.1 What have I learnt this week?*
+Through careful reflection upon week 2’s content, I believe that the most significant topic I learnt about was the value of a ‘Many Models’ approach. One statistic that stood out to me was about the success in accuracy when a second model and third model was included. These findings concluded that adding a second model led to an 8% improvement, followed by 15% with a third model. Interestly, only several models are needed to increase the improvement amount. For example, having 50 models would yield an improvement so small that it would not be worth the amount of time and energy needed to build this excessive number of models. 
+ 
+### *2.2 What do I 'now know' that I did not before?*
+I now know about the theory behind the ‘Wisdom of the Crowds’ and how it can be used to calculate (quite accurately) the number of lollies in a jar! However, it was interesting for me to learn that you need lots of diversity in individual people’s answers to make the final answer accurate. When there are many people who all answer the same way,  such as like minded people being all wrong, then this translates to ‘Madness of the Crowds’. 
+ 
+### *2.3 What insights have I gained?*
+Further insights gained include awareness regarding biases found in mental models. The ‘Cognitive Bias Codex’, is a visual diagram which lists over 180 mental biases that humans can produce when they have flaws in their thinking or are unaware. It is an extremely useful visual that made me aware of just how many flaws there are to human thought. Ideally, through the use of models and models incorporating diversity I would hope that most biases can be removed. 
+ 
+### *2.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+
+ 
+| Strengths     | Weaknesses    |
+| ------------- | ------------- |
+| Understanding that models are an abstraction of reality. That they represent the key components of whatever the model is based upon. | Understanding the ‘Condorcet Jury Theorem’, proved to be difficult. I believe that I need to spend more time understanding this theorem.| 
+
+
+### *2.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+Small challenges appeared this week such as understanding the theory behind the ‘Wisdom of the Crowds’. It was an extremely new concept to me, therefore I had to carefully go over the pre-work notes and class lecture to piece together the relevant information in order to develop a comprehensive understanding. 
+ 
+### *2.6 What would I do better next time and with what anticipated results?*
+Next time I hope to read extra material regarding the specific models and theories presented in class. 
+ 
+### *2.7 What theory proved to be useful and why? What have I learnt from this?*
+The 3 theories regarding different approaches to models, have been extremely useful in helping me understand types of models. The embodiment approach is based upon realism and the alternative reality approached does not represent reality. These 2 approaches are polar opposites. However, between these sits the analogy approach which incorporates the essence of reality and aims to provide realistic models based on assumption. 
+ 
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 2:*
+
