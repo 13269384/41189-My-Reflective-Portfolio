@@ -95,3 +95,4 @@ Next time I would like to make a list of what context these models are normally 
 The signalling theory has been very useful as it has allowed me to consider the world around me in a more intentional way. Throughout the week, as I left my house, sometimes I would look around me and as myself, “What is this person signalling with this action or object?” By thinking about other people in this way I believe that my ability to be empathetic and understand people in a more humble way shall grow. 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 3:*
+https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/3#issue-680101871
