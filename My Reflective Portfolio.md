@@ -59,4 +59,39 @@ Next time I hope to read extra material regarding the specific models and theori
 The 3 theories regarding different approaches to models, have been extremely useful in helping me understand types of models. The embodiment approach is based upon realism and the alternative reality approached does not represent reality. These 2 approaches are polar opposites. However, between these sits the analogy approach which incorporates the essence of reality and aims to provide realistic models based on assumption. 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 2:*
-https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/2#issue-675936013 
+https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/2#issue-675936013
+
+
+# WEEK 3
+
+### *3.1 What have I learnt this week?*
+Upon reflection, the topics covered in week 3’s lecture were an introduction to a variety of models from the ‘Many Models’ approach. They were separated into 5 categories such as modelling how people behave, decide, add power and value, conceal or reveal information and solve problems in groups. By re-reading the lecture content I have come to an understanding regarding the many different forms of representation regarding human thought processes and that the behaviour of people can be modelled to the best of our understanding. 
+
+### *3.2 What do I 'now know' that I did not before?*
+According to Daniel Kahneman’s non-fiction book ‘Thinking Fast and Slow’, the are two systems within the brain that have different roles in everyday life. System 1 which is used for 90% of the time is fast, automatic and is used to make most of our unconscious decisions such as walking, breathing and simple calculations. However, system 2 is only used the remainder 10% of the time for more complex decisions thus making the thought process time a lot slower than system 1. The benefit of system 2 is that it is reliable and intentional, therefore extremely useful for critical thinking and reflection. In order to write this reflection I am using the ‘system 2’ part of my brain. 
+
+### *3.3 What insights have I gained?*
+A significant insight gained after week 3’s lecture was how people add power and value to a situation. The ‘shapley value’, which considers the average added value of a person to a group or team may prove to be very useful in group situations. Conflict can often occur when people feel as though work, money, time and energy have not been distributed evenly, however by utilising the ‘Shapley value’, a solution can be proposed.   
+ 
+### *3.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+| Strengths     | Weaknesses    |
+| ------------- | ------------- |
+| Understanding the content through the creation of a visual mind map.  | The practical application of some of the models is still slightly vague to me. I understand that in some situations it would be better to use one model rather than another. I am not 100% confident in choosing the most appropriate model. | 
+
+ 
+Strengths
+Weaknesses
+Understanding the content through the creation of a visual mind map. 
+The practical application of some of the models is still slightly vague to me. I understand that in some situations it would be better to use one model rather than another. I am not 100% confident in choosing the most appropriate model. 
+ 
+### *3.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+
+Personal challenges that occurred this week included the amount of content that had to be revised. I found it quite overwhelming as these were totally new concepts to me that I had never encountered before. Each week I feel as though I am learning about new ways to think critically through a many models approach. By the end of the semester I hope to be confident in my ability to analyse the world through a diverse set of models. 
+ 
+### *3.6 What would I do better next time and with what anticipated results?*
+Next time I would like to make a list of what context these models are normally used in and then of a few ways that they could be creatively used. I believe that this activity would broaden and diversify my understanding of each model and allow it to be used in creative and innovative ways. 
+ 
+### *3.7 What theory proved to be useful and why? What have I learnt from this?*
+The signalling theory has been very useful as it has allowed me to consider the world around me in a more intentional way. Throughout the week, as I left my house, sometimes I would look around me and as myself, “What is this person signalling with this action or object?” By thinking about other people in this way I believe that my ability to be empathetic and understand people in a more humble way shall grow. 
+ 
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 3:*
