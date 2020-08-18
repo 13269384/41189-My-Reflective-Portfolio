@@ -77,12 +77,6 @@ A significant insight gained after week 3’s lecture was how people add power a
 | Strengths     | Weaknesses    |
 | ------------- | ------------- |
 | Understanding the content through the creation of a visual mind map.  | The practical application of some of the models is still slightly vague to me. I understand that in some situations it would be better to use one model rather than another. I am not 100% confident in choosing the most appropriate model. | 
-
- 
-Strengths
-Weaknesses
-Understanding the content through the creation of a visual mind map. 
-The practical application of some of the models is still slightly vague to me. I understand that in some situations it would be better to use one model rather than another. I am not 100% confident in choosing the most appropriate model. 
  
 ### *3.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
 
