@@ -107,8 +107,7 @@ A profound insight gained from learning about networking models comes from the e
  
 | Strengths     | Weaknesses    |
 | ------------- | ------------- |
-|Identifying these models in real life. I believe that I can practically apply and see the networking model to my everyday life.|
-Understanding some of the mathematics behind the models.|
+|Identifying these models in real life. I believe that I can practically apply and see the networking model to my everyday life.|Understanding some of the mathematics behind the models.|
  
 ### *4.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
 Challenges faced this week included managing the workload of this subject and other subjects. I do not believe that I handed the workload very well this week as I was not efficient with my time. Unfortunately, I was not able to follow my uni work schedule which meant that I got a little bit behind on work. 
@@ -120,4 +119,4 @@ Next time, I believe that I should delegate set time periods to specific work wh
 The ikea effect theory proved to be useful as it made me reconsider the value I place on objects. Consumers are  constantly encouraged to buy the latest item, which is the most expensive. However, if I am happy to fix or make part of the product myself, I believe that my level of satisfaction could be more than or equal to buying a brand new product. 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 4:*
-
+https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/4#issue-690674161
