@@ -90,3 +90,34 @@ The signalling theory has been very useful as it has allowed me to consider the 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 3:*
 https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/3#issue-680101871
+
+
+# WEEK 4
+
+### *4.1 What have I learnt this week?*
+Through critical reflection of this week's teachings, I have learnt a great deal about causal loop diagrams and how relevant they are to everyday life. CLD are a part of system dynamic models that include reinforcing loops and balancing loops. They help us understand the feedback processes and graphically represent the relationship between variables. I believe that CLD are extremely useful as they clearly demonstrate the impact of one variable on another and reveal why something is happening. E.g. Dehydration because someone is not drinking enough water. If they start drinking water they will no longer be dehydrated. 
+ 
+### *4.2 What do I 'now know' that I did not before?*
+Prior to week 4’s lecture I did not know anything about Agent Based Modelling. However, after reading through the course materials and attending the lecture I am convinced that ABM is an extremely effective modelling method. This effectiveness stems from the fact that ABM allows modellers to observe what is happening, adapt the model and have it learn about its environment. Due to these unique characteristics, ABM shows the emergent qualities of Complex systems. I believe that it is critical to consider the underlying structures and patterns that appear in the real world and ABM provides a way to represent and model the unpredictable behaviour of people and environments. 
+ 
+### *4.3 What insights have I gained?*
+A profound insight gained from learning about networking models comes from the example of ‘The power of weak ties’. Learning about the influence that people who are not very close to me have on my life has encouraged me to consider my wider network and not just my immediate friends and family members. It surprised me that some of the best job opportunities come from weak ties as this group of people covers a broader range of individuals who have different experiences to my own. I am very excited to reach out to some of these weaker ties and see what I can learn or gain from these relationships. 
+
+### *4.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+ 
+| Strengths     | Weaknesses    |
+| ------------- | ------------- |
+|Identifying these models in real life. I believe that I can practically apply and see the networking model to my everyday life.|
+Understanding some of the mathematics behind the models.|
+ 
+### *4.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+Challenges faced this week included managing the workload of this subject and other subjects. I do not believe that I handed the workload very well this week as I was not efficient with my time. Unfortunately, I was not able to follow my uni work schedule which meant that I got a little bit behind on work. 
+
+### *4.6 What would I do better next time and with what anticipated results?*
+Next time, I believe that I should delegate set time periods to specific work which will allow me to complete all of my tasks according to schedule. Even if I have not 100% completed weekly activities it may prove a successful method to just start as I found that starting was the hardest part. 
+
+### *4.7 What theory proved to be useful and why? What have I learnt from this?*
+The ikea effect theory proved to be useful as it made me reconsider the value I place on objects. Consumers are  constantly encouraged to buy the latest item, which is the most expensive. However, if I am happy to fix or make part of the product myself, I believe that my level of satisfaction could be more than or equal to buying a brand new product. 
+ 
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 4:*
+
