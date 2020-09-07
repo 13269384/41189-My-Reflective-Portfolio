@@ -120,3 +120,34 @@ The ikea effect theory proved to be useful as it made me reconsider the value I 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 4:*
 https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/4#issue-690674161
+
+# WEEK 5
+
+### *5.1 What have I learnt this week?*
+By reflecting upon this week's lecture I have learnt a great deal about probability and how random the events in our life are. It is astonishing to me that by considering how high a possible outcome is between 0-1, we can determine how probable that event is from occurring. Probability is everywhere in our life from the weather forecast to insurance, sports, advertisement, gambling, banking and even falling in love! By considering my own life and looking back at my decisions, it would be interesting to calculate the probability of me ending up in some other course or university had it been for different choices and outcomes.
+ 
+### *5.2 What do I 'now know' that I did not before?*
+Prior to the lecture I did not know about normal distribution and the bell shaped curved. The Gaussian distribution model is extremely informative when it comes to demonstrating whether something is “normal” or not because the highest point (central peak) depicts the highest probability of occurrence. Further away from the peak, the probability of occurrence becomes more rare, thus expressing that the outcome is less likely to occur. The normal distribution can be used to demonstrate the IQ, height of people, blood types and student. 
+ 
+### *5.3 What insights have I gained?*
+The preferential attachment model has shown me the importance of power-law distributions as this model demonstrates links between different people, events and objects. It was interesting to note that people are very easily influenced by other people’s decisions which can change the popularity of something. Books, music and internet trends are examples of how, if one person buys an object/clicks on a video, then the likelihood of someone else doing the same thing will increase. 
+ 
+### *5.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+
+ 
+|Strengths|Weaknesses|
+|Understanding probability and probability distributions. That a sample is a representation of a population  and can never be identical to it.|Applying all the models to my everyday life. I can see a direct correlation between some theory and my everyday life, however I struggle with being able to model it.| 
+|Understanding the value of normal distribution, however in manufacturing it is important to reduce the standard deviation in order to minimise waste (six sigma).| 
+
+ 
+### *5.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+Challenges encountered this week included understanding the power law models. However, after watching the TED talk shown in class about power laws and cities, it became apparent to me that power laws are a very important modelling tool. The versatility of this model to understand the social and environmental implications of certain events such as earthquakes is extremely useful.   
+ 
+### *5.6 What would I do better next time and with what anticipated results?*
+Next time I would like to complete this reflection straight after class instead of leaving it for a later date. There is a lot of information to cover and having it fresh in my mind would make writing the reflection a lot easier. 
+ 
+### *5.7 What theory proved to be useful and why? What have I learnt from this?*
+The theory about aggregation has been useful as it has provided a more critical understanding of data and its relationship to our world. The emergent properties of systems is a factor that should not be disregarded in modelling as it often provides the most important knowledge and holistic understanding. Aggregation of action encourages us to understand complicated patterns and the interaction between components. Overall, from this theory I have learnt that feedback is extremely important in understanding emergent properties and behaviour. 
+ 
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 5:*
+
