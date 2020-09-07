@@ -155,4 +155,4 @@ Next time I would like to complete this reflection straight after class instead 
 The theory about aggregation has been useful as it has provided a more critical understanding of data and its relationship to our world. The emergent properties of systems is a factor that should not be disregarded in modelling as it often provides the most important knowledge and holistic understanding. Aggregation of action encourages us to understand complicated patterns and the interaction between components. Overall, from this theory I have learnt that feedback is extremely important in understanding emergent properties and behaviour. 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 5:*
-
+https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/5#issue-694859491
