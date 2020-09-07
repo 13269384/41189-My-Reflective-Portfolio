@@ -137,7 +137,12 @@ The preferential attachment model has shown me the importance of power-law distr
  
 |Strengths|Weaknesses|
 |Understanding probability and probability distributions. That a sample is a representation of a population  and can never be identical to it.|Applying all the models to my everyday life. I can see a direct correlation between some theory and my everyday life, however I struggle with being able to model it.| 
-|Understanding the value of normal distribution, however in manufacturing it is important to reduce the standard deviation in order to minimise waste (six sigma).| 
+|Understanding the value of normal distribution, however in manufacturing it is important to reduce the standard deviation in order to minimise waste (six sigma).|
+
+| Strengths     | Weaknesses    |
+| ------------- | ------------- |
+|Understanding probability and probability distributions. That a sample is a representation of a population  and can never be identical to it.|Applying all the models to my everyday life. I can see a direct correlation between some theory and my everyday life, however I struggle with being able to model it.| 
+|Understanding the value of normal distribution, however in manufacturing it is important to reduce the standard deviation in order to minimise waste (six sigma).|
 
  
 ### *5.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
