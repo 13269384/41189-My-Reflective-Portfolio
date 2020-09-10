@@ -156,3 +156,33 @@ The theory about aggregation has been useful as it has provided a more critical 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 5:*
 https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/5#issue-694859491
+
+# WEEK 6
+
+### *6.1 What have I learnt this week?*
+Through critical observation of week six’s learning material, it has become clear to me that complex systems evolve over a period of time. Path dependency is one theory which highlights that the outcome depends on a sequence of past outcomes. I strongly agree with this theory as it is true that what is happening now cannot occur without specific choices made in the past. 
+ 
+### *6.2 What do I 'now know' that I did not before?*
+Interestingly, before this lecture I was not aware that the spread of information or rumours could be modelled. The percolation theory proved to be very interesting as it can model how quickly a rumour spreads. Modelling social phenomena such as human communication and rumours is fascinating as there are so many factors involved. However, percolation suggests that the greater the accumulation in a specific area, the likelihood of percolation also increases. 
+ 
+### *6.3 What insights have I gained?*
+I have gained great insight about Wall Street and stocks. The random walk model has made me more critical towards the stock market because it has proved to me that it is extremely difficult to predict what will happen to stocks. Current events in the world immediately affect stocks, therefore unless we can predict the future we will never be able to predict what will happen to the stock market, thus making price changes unpredictable. This theory has proved that it is impossible to beat the market, so maybe becoming a fortune teller compared to a stock analyst would up my chances of making money in the stock market!
+ 
+### *6.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+ 
+| Strengths     | Weaknesses    |
+| ------------- | ------------- |
+|Understanding random walks and path dependence.| The percolation, diffusion and broadcast models seem to model similar topics, therefore I struggle to understand in what situation it would be best to choose one of them.| 
+ 
+### *6.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+As the deadline for assignment 1 approaches, my team gathered in order to decide on a topic and models. It was difficult to choose an appropriate topic as communication over text was slow. However, we decided on a time to call after class and agreed on a topic and models. Communication was difficult in the beginning but we have decided that talking over MS teams call or Whatsapp group call is more time efficient and effective. 
+ 
+### *6.6 What would I do better next time and with what anticipated results?*
+Next time I would like to organise a time to meet with my group a few days in advance. It was a bit stressful as we decided on the day and I had other university commitments. However, I believe that in the future we will definitely communicate better. 
+ 
+### *6.7 What theory proved to be useful and why? What have I learnt from this?*
+After deciding on a topic with my group, I realised that the Markov Model will be extremely useful as it models the likelihood of something moving from one state to another. Our topic is about how the housing market has changed due to Covid-19. Whether people are deciding to sell or not, buy or not. The markov model is perfect for this because we can demonstrate whether people are transitioning from making a choice to sell/buy or not. 
+ 
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 6 :*  
+ 
+
