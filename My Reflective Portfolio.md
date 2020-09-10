@@ -184,5 +184,5 @@ Next time I would like to organise a time to meet with my group a few days in ad
 After deciding on a topic with my group, I realised that the Markov Model will be extremely useful as it models the likelihood of something moving from one state to another. Our topic is about how the housing market has changed due to Covid-19. Whether people are deciding to sell or not, buy or not. The markov model is perfect for this because we can demonstrate whether people are transitioning from making a choice to sell/buy or not. 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 6 :*  
- 
+ https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/6#issue-697601434 
 
