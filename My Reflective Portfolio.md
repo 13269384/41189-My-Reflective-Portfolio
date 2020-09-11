@@ -185,4 +185,34 @@ After deciding on a topic with my group, I realised that the Markov Model will b
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 6 :*  
  https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/6#issue-697601434 
+ 
+# WEEK 7
+
+### *7.1 What have I learnt this week? *
+By critically reflecting upon week 7’s lecture content it has become clear to me that culture is a very dynamic and fluid concept that has emergent properties. There are many cultural groups in Australian, which makes this nation multicultural. It is interesting to note that although some people have been born and raised in Australian (like myself), as my father is Japanese I still associate with Japanese culture. Therefore the cultural differences that may emerge as a result of this can be demonstrated as an extension of the pure coordination game. Coordination has a great impact on cultures and what creates cultural difference.  
+ 
+### *7.2 What do I 'now know' that I did not before?*
+Prior to this reflection it was unclear to me that social learning could be modeled through ‘Replicator Dynamics’.  Some factors that contribute to social learning include behaviour change which can occur through rational strategy or rule-based strategy. Considering these two types I believe that a lot of the decisions that individuals make can be based on rule-based strategy as social choices can influence others greatly. Furthermore, unconscious rules such as social conditioning can also influence social learning. An example of this is that young children are better at representing reality in an abstract way compared to an adult. 
+ 
+### *7.3 What insights have I gained?*
+Modelling how people segregate through Schelling’s segregation model has demonstrated to me that people who are similar like to join together in communities. By mapping people’s usual behaviour and rules that they follow, we can create an agent based model which may explain an outcome. If I apply this to my own life, it makes sense to me why I have specific friend groups as our interests are similar. 
+ 
+### *7.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+ 
+| Strengths     | Weaknesses    |
+| ------------- | ------------- |
+|Identifying how these models can apply to my own life.| Understanding the mathematics behind these models. It would take a lot more research for me to be able to apply these models.|
+ 
+### *7.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+After reflecting on the challenges faced in the previous weeks such as time management, I believe that I have been very effective with my time this week. Instead of writing handwritten notes during the lecture, I immediately wrote them on the computer which has saved me time. I no longer need to retype my notes which has given me more time to revise the content and really understand it. 
+ 
+### *7.6 What would I do better next time and with what anticipated results?*
+Next time I would like to write down how I can see some of these models in my everyday life. I believe that this would improve my understanding of many models thinking. 
+ 
+### *7.7 What theory proved to be useful and why? What have I learnt from this?*
+The standing ovation theory was very useful as it has provided a lot of information about social cues and why people stand up in a standing ovation. There are many factors which influence how individuals act, making me think that we never really act individually. Is it possible to be an individual? In today’s society the focus on ‘self’ has grown astronomically with people investing in self help books, selfies and solo business ventures. However, agent based models have demonstrated to me that people are susceptible to large peer effects and social influencers as shown in a standing ovation model. 
+
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 7 :*   
+https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/7#issue-697606616
+
 
