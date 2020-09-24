@@ -231,7 +231,7 @@ What has inspired me most this week is the understanding that models cannot demo
 ### *8.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
 | Strengths     | Weaknesses    |
 | ------------- | ------------- |
-|Perseverance in setting up Jupyter notebook and github.|Understanding the mathematics behind the models.|
+|Perseverance in setting up Jupyter notebook and github. Learning how to imbed an image into jupyter notebook. Getting familar with Jupyter lab.|Understanding the mathematics behind the models.|
 |Understanding the colonel blotto game and applying it to the current social environment.|
  
 ### *8.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
