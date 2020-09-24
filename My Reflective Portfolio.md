@@ -245,6 +245,6 @@ The colonel blotto game proved to be very useful as it simplified a problem into
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 8 :*    
 
-
+![title](Complex_Visual_Week8.png)
 
 
