@@ -217,3 +217,34 @@ The standing ovation theory was very useful as it has provided a lot of informat
 https://github.com/13269384/41189_My_Reflective_Portfolio_Shino_Takesako_13269384/issues/7#issue-697606616
 
 
+# WEEK 8
+
+### *8.1 What have I learnt this week?* 
+Upon critical reflection of this week’s teachings, I have learnt a great deal about complexity and emergent behaviour in a many models thinking approach. Game theories such as strategy, competition and cooperation are evident everywhere in our everyday lives. Models such as the Colonel Blotto model and Prisoners Dilemma models are two of the most well known game theory models which can be applied to many sectors such as finance, sport and health.
+
+### *8.2 What do I 'now know' that I did not before?*
+Following the lecture in week 8 I have learnt a great deal about game theory, when previously I had no understanding of the concept. I was not aware that warfare tactics seen in the Colonel Blotto game could be applied to modern day society. The discussion forum also provided excellent questions as it made me reflect upon the colonel blotto game and Covid-19. By critically reflecting, the battle of society against Covid-19 can be seen through the need to reduce community transmission. Fronts such as wearing masks, changing behaviour and social distancing must be won inorder to beat the virus. The structure of the colonel blotto theory is now very clear to me, so much so that I can see how it can be applied to Covid-19, university study (time management) and sport. 
+
+### *8.3 What insights have I gained?*
+What has inspired me most this week is the understanding that models cannot demonstrate the unique choices of human beings. For example, the prisoner's dilemma assumes that people will always choose the option that suits them as an individual instead of thinking about the collective. However this is not always the case as people have different morals and values. Some people find more merit in putting others first therefore they would choose to cooperate instead of sacrifice. Unfortunately the prisoner’s dilemma cannot model influencing factors such as a person's ethical perspective.
+
+### *8.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+| Strengths     | Weaknesses    |
+| ------------- | ------------- |
+|Perseverance in setting up Jupyter notebook and github.|Understanding the mathematics behind the models.|
+|Understanding the colonel blotto game and applying it to the current social environment.|
+ 
+### *8.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+This week has proven to be extremely difficult as it is the week of submitting the assignment. Fortunately my group has been very organised with delegating parts at the beginning of stuvac and completing them throughout the two weeks prior to submission. Unfortunately I had great difficulty in setting up jupyter notebook with the Github extensions. I found my team to be very supportive in trying to help solve the issue, but it was ultimately Juan’s help that fixed the issue. I believe that we handled this issue very well as we tried our best to sort it out ourselves, but when that proved to be too difficult we consulted our tutor. When we identified that we did not have the skill set to fix the problem we decided to stop wasting time and contact someone who could definitely help up. This method helped us use our time more efficiently, in order to complete the assignment.
+ 
+### *8.6 What would I do better next time and with what anticipated results?*
+For the next assignment submission there are several parts, therefore it would be a good idea to create a timeline and smaller submission deadlines (within the group). This structure is similar to what we have done for the week 8 submission therefore it should work very well as we have not had any time management issues so far. 
+ 
+### *8.7 What theory proved to be useful and why? What have I learnt from this?*
+The colonel blotto game proved to be very useful as it simplified a problem into players and fronts that must be overcome. I have learnt that I can utilise this theory in my everyday life as a form of time management. Working part time, completing uni, playing sport and having a social life are front that must be won in a balanced and healthy way. Using the colonel blotto game to distribute my time and energy to each of these fronts in a realistic way is something that I can consider as troops on a battlefield. 
+ 
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 8 : *    
+
+
+
+
