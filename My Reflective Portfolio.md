@@ -1,6 +1,6 @@
 # MY 41189 REFLECTIVE PORTFOLIO
 Shino Takesako_13269384
-Hello
+
 
 # WEEK 1
 ### *1.1 What have I learnt this week?*
@@ -189,7 +189,7 @@ After deciding on a topic with my group, I realised that the Markov Model will b
  
 # WEEK 7
 
-### *7.1 What have I learnt this week? *
+### *7.1 What have I learnt this week?*
 By critically reflecting upon week 7’s lecture content it has become clear to me that culture is a very dynamic and fluid concept that has emergent properties. There are many cultural groups in Australian, which makes this nation multicultural. It is interesting to note that although some people have been born and raised in Australian (like myself), as my father is Japanese I still associate with Japanese culture. Therefore the cultural differences that may emerge as a result of this can be demonstrated as an extension of the pure coordination game. Coordination has a great impact on cultures and what creates cultural difference.  
  
 ### *7.2 What do I 'now know' that I did not before?*
@@ -243,7 +243,7 @@ For the next assignment submission there are several parts, therefore it would b
 ### *8.7 What theory proved to be useful and why? What have I learnt from this?*
 The colonel blotto game proved to be very useful as it simplified a problem into players and fronts that must be overcome. I have learnt that I can utilise this theory in my everyday life as a form of time management. Working part time, completing uni, playing sport and having a social life are front that must be won in a balanced and healthy way. Using the colonel blotto game to distribute my time and energy to each of these fronts in a realistic way is something that I can consider as troops on a battlefield. 
  
-### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 8 : *    
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 8 :*    
 
 
 
