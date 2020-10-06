@@ -243,10 +243,36 @@ For the next assignment submission there are several parts, therefore it would b
 ### *8.7 What theory proved to be useful and why? What have I learnt from this?*
 The colonel blotto game proved to be very useful as it simplified a problem into players and fronts that must be overcome. I have learnt that I can utilise this theory in my everyday life as a form of time management. Working part time, completing uni, playing sport and having a social life are front that must be won in a balanced and healthy way. Using the colonel blotto game to distribute my time and energy to each of these fronts in a realistic way is something that I can consider as troops on a battlefield. 
 
-The prisoner's dilemma has also proved to be useful as it has provided me with a new perspective in the way that a model expects human's to think. However, a model cannot really represent human choice. This week, I was able to identify the Prisoner's Dilemma when watching the 2008 Batman movie, 'The Dark Knight' starring Health Ledger as the Joker. There was a scene whereby the antagonist (the Joker) had set up two ships, one with innocent civilians and the other with prisoners. Each ship had a detonator to the other ship's bomb and if, for example, the civilian ship blew up the prisoner's ship before 12am, then the civilians would be saved. However, if neither side pressed the detonator, they would both explode at 12am. In this situation, the Joker expected one side to blow up the other boat, which is what the Prisoner's Dilemma would infer. However, the moral of this situation was that neither side pressed the detonator and therefore they bested the Joker with human cooperation. In the end none of the ships exploded as it was a bluff made by the Joker who  and in the end none of the ships exploded. 
+The prisoner's dilemma has also proved to be useful as it has provided me with a new perspective in the way that a model expects human's to think. However, a model cannot really represent human choice. This week, I was able to identify the Prisoner's Dilemma when watching the 2008 Batman movie, 'The Dark Knight' starring Health Ledger as the Joker. There was a scene whereby the antagonist (the Joker) had set up two ships, one with innocent civilians and the other with prisoners. Each ship had a detonator to the other ship's bomb and if, for example, the civilian ship blew up the prisoner's ship before 12am, then the civilians would be saved. However, if neither side pressed the detonator, they would both explode at 12am. In this situation, the Joker expected one side to blow up the other boat, which is what the Prisoner's Dilemma would infer. However, the moral of this situation was that neither side pressed the detonator and therefore they bested the Joker with human cooperation. In the end, none of the ships exploded as it was a bluff made by the Joker and this scene reflected that the Prisoner's dilemma cannot totally predict human behaviour. 
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 8 :*    
 
 ![](Complex_Visual_Week8.png)
 
+
+# WEEK 9 #
+
+### *9.1 What have I learnt this week?* 
+The main focus of Week 9 was to discuss how to proceed with the final assignment submission. Upon critical reflection of our week 8 presubmission, it is clear to me that we understood the assessment criteria well, as our answers to the questions were written in depth and with much thought. 
+
+### *9.2 What do I 'now know' that I did not before?*
+Following the tutorial in week 9, I now know how our group will proceed with the next stages of the assignment. We were fortunate enough to have Juan answer some questions for us which was extremely useful. He clarified sections 4 onwards in the assignment and from that we were able to strategically dedicate and delegate specific sections to the appropriate group member. 
+
+### *9.3 What insights have I gained?*
+Insights gained this week included reading peer feedback about our week 8 assignment presubmission. We received extremely positive feedback, however one point of observation from group 1 was that our images in Github were too large and should be resized. This comment made me consider that platforms such as JupyterLab and GitHub may present text and images in a different way. 
+
+### *9.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+| Strengths     | Weaknesses  |
+| ------------- | ------------- |
+| Coming together as a group and discussing the next stages of our assignment. Seeking clarification from Juan. | It will take us some time and research to be able to execute the models in python code. |
+ 
+### *9.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+
+Some challenges encountered this week included not seeing some notifications from Canvas regarding giving peer feedback and setting up the issue tab in Github. I missed the information by a day or two and this meant that the deadline for giving feedback was extremely close, which unfortunately did not give my group much time. 
+
+### *9.6 What would I do better next time and with what anticipated results?*
+In the future, I believe that I must go into canvas and check the announcements manually. Sometimes when I get notifications on my phone, I swipe them away as I am busy. Unfortunately this means that it is easy for me to forget about announcements. It is also important to have good communication within the group. 
+ 
+ 
+ 
 
