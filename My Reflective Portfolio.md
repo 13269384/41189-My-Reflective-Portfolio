@@ -250,7 +250,7 @@ The prisoner's dilemma has also proved to be useful as it has provided me with a
 ![](Complex_Visual_Week8.png)
 
 
-# WEEK 9 #
+# WEEK 9 
 
 ### *9.1 What have I learnt this week?* 
 The main focus of Week 9 was to discuss how to proceed with the final assignment submission. Upon critical reflection of our week 8 presubmission, it is clear to me that we understood the assessment criteria well, as our answers to the questions were written in depth and with much thought. 
@@ -262,7 +262,7 @@ Following the tutorial in week 9, I now know how our group will proceed with the
 Insights gained this week included reading peer feedback about our week 8 assignment presubmission. We received extremely positive feedback, however one point of observation from group 1 was that our images in Github were too large and should be resized. This comment made me consider that platforms such as JupyterLab and GitHub may present text and images in a different way. 
 
 ### *9.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
-| Strengths     | Weaknesses  |
+| Strengths     | Weaknesses    |
 | ------------- | ------------- |
 | Coming together as a group and discussing the next stages of our assignment. Seeking clarification from Juan. | It will take us some time and research to be able to execute the models in python code. |
  
@@ -271,8 +271,38 @@ Insights gained this week included reading peer feedback about our week 8 assign
 Some challenges encountered this week included not seeing some notifications from Canvas regarding giving peer feedback and setting up the issue tab in Github. I missed the information by a day or two and this meant that the deadline for giving feedback was extremely close, which unfortunately did not give my group much time. 
 
 ### *9.6 What would I do better next time and with what anticipated results?*
-In the future, I believe that I must go into canvas and check the announcements manually. Sometimes when I get notifications on my phone, I swipe them away as I am busy. Unfortunately this means that it is easy for me to forget about announcements. It is also important to have good communication within the group. 
+In the future, I believe that I must go into canvas and check the announcements manually. Sometimes when I get notifications on my phone, I swipe them away as I am busy. Unfortunately this means that it is easy for me to forget about announcements. It is also important to have good communication within the group, so that if I miss anything the team can back me up. Everyone should be checking their notifications so that we can all help each other out. 
  
+# WEEK 10 
+
+### *10.1 What have I learnt this week?* 
+
+After critically reflecting on peer feedback received and working on the assignment, it is clear to me that the many models thinking approach can be applied to various  different topics. Reading Group 3’s assignment and providing feedback to them was extremely insightful as it demonstrated another perspective and approach to the assignment. The feedback from group 1 was useful as it encouraged me to reevaluate how I had set up the document to make it easier to interpret and read. From their feedback I learnt how to resize images in Jupyter Lab. 
+
+### *10.2 What do I 'now know' that I did not before?*
+
+Following work completed in week 10, I now know a significant amount about Decision Trees as this is the model that I am working on in the assignment. Decision trees involved setting hierarchical decision boundaries that split data into nodes.. The root node contains the entire sample and is continuously divided in decision nodes and finally a leaf node which achieves maximum accuracy. 
+
+### *10.3 What insights have I gained?*
+
+Insights gained include learning about different splitting measures for data including information gain and gini index. Moving further down the tree means that the level of impurity decreases which ultimately leads to a better classification or split at each node. Information gain is used to decide the attribute that gives the most amount of information about a class. It is based upon the concept of entropy which is the degree of uncertainty. The Gini index measures the degree of probability of a particular variable being wrongly classified when it is randomly chosen. The degree of Gini index varies between 0 and 1, where 0 means that all elements belong to a certain class and 1 denotes that the elements are randomly distributed across various classes. 
  
+### *10.4 What are (my/the) perceived strengths and weaknesses that I have observed?*
+
+| Strengths     | Weaknesses  |
+| ------------- | ------------- |
+|Researching the decision tree. Working with the group to organise the next part of the assignment. Taking on board the other groups feedback and using it to improve our work. | Getting the correct data for my decision tree. Implementing the python code. It still needs more work done to it.|
+ 
+### *10.5 What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+
+Challenges included interpreting the other teams feedback. Unfortunately some of the comments did not make a lot of sense to use. However, we spoke to Juan in class and he was able to clarify what the other group meant. We handled it well and have tried to implement it into our assignment for the final submission. 
+
+### *10.6 What would I do better next time and with what anticipated results?*
+
+Next time I would like to spend more time learning python code. I have implemented a draft version of my decision tree in Jupyter Lab, however, I require some feedback as I am not entirely sure that I am on the right track. I think that moving forward, it would be best to complete as much work as possible before the deadline so that I have adequate time to get feedback and implement the changes.  
+ 
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 10 : *  
+![](Complex_Visual_Week8.png)
+
  
 
