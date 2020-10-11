@@ -303,7 +303,7 @@ Challenges included interpreting the other teams feedback. Unfortunately some of
 Next time I would like to spend more time learning python code. I have implemented a draft version of my decision tree in Jupyter Lab, however, I require some feedback as I am not entirely sure that I am on the right track. I think that moving forward, it would be best to complete as much work as possible before the deadline so that I have adequate time to get feedback and implement the changes.  
  
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 10 :*  
-![](Visual week 10.png)
+![](Visual_week_10.png)
 
  
 
