@@ -273,6 +273,7 @@ Some challenges encountered this week included not seeing some notifications fro
 ### *9.6 What would I do better next time and with what anticipated results?*
 In the future, I believe that I must go into canvas and check the announcements manually. Sometimes when I get notifications on my phone, I swipe them away as I am busy. Unfortunately this means that it is easy for me to forget about announcements. It is also important to have good communication within the group, so that if I miss anything the team can back me up. Everyone should be checking their notifications so that we can all help each other out. 
  
+ 
 # WEEK 10 
 
 ### *10.1 What have I learnt this week?* 
@@ -301,8 +302,8 @@ Challenges included interpreting the other teams feedback. Unfortunately some of
 
 Next time I would like to spend more time learning python code. I have implemented a draft version of my decision tree in Jupyter Lab, however, I require some feedback as I am not entirely sure that I am on the right track. I think that moving forward, it would be best to complete as much work as possible before the deadline so that I have adequate time to get feedback and implement the changes.  
  
-### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 10 : *  
-![](Complex_Visual_Week8.png)
+### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 10 :*  
+![](Visual week 10.png)
 
  
 
