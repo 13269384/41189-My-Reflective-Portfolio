@@ -305,7 +305,7 @@ Next time I would like to spend more time learning python code. I have implement
 ### *VISUAL REPRESENTATION OF CONTENT LEARNT IN WEEK 10 :*  
 ![](Visual_week_10.png)
 
-#WEEK 11 and 12#
+# WEEK 11 and 12
 
 ### *What have I learnt this week?* 
 As class was cancelled in week 11 and 12, this provided time for students to work on the assignment. Juan provided individual feedback to our group which meant that we could continue to iterate our work. Juan’s feedback for my decision tree included improving my ML decision tree classifier in python and adapting it to our situation. He was very thorough in his feedback which ensured that I was on the right track. 
@@ -313,7 +313,7 @@ As class was cancelled in week 11 and 12, this provided time for students to wor
 ### *What do I 'now know' that I did not before?*
 Working on the assignment has taught me a lot about how decision trees are trained using data and classifiers. Scikit learn is also extremely useful for providing the structure of the decision tree and probabilities. Throughout the my coding experience, python has been a great and easy to understand language that I did not know how to use before this subject.
  
-### * What insights have I gained?* 
+### *What insights have I gained?* 
 The greatest insight that I have gained over these weeks has been through my search for data. Unfortunately in my first submission (week 8), I did not have enough data in my table to train the decision tree accurately. By gathering data from the beginning of the year when Covid-19 was beginning to merge until the current time period, I learnt a great deal about the importance of data. Searching for the correct data also encouraged me to criticise some data sources and analyse whether the numbers that were being shared came from reliable and accurate sources. It is because I had to search for my own data that I made the insight that having the correct data is an extremely important foundation for models. 
  
 ### *What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
